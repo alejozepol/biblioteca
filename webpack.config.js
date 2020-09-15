@@ -8,7 +8,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
-    publicPath: '/',
+    publicPath: './',
   },
   //Resuelve las extensiones que vamos a usar (les das soporte)
   resolve: {
