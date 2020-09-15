@@ -1,2 +1,2 @@
-# react-practice
-Curso practica de react
+# biblioteca
+Recomendaciones de libros.
