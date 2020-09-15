@@ -1,6 +1,6 @@
 language: node_js
 os: 
-  - windows
+  - linux
 cache:
   directories:
     - node_modules
@@ -10,7 +10,7 @@ node_js:
 git:
   depth: 3
 script:
-  - npm run build
+  - yarn build
 deploy:
   provider: pages
   skip-cleanup: true
