@@ -8,7 +8,7 @@ import NotFound from '../containers/NotFound';
 import Layout from '../components/Layout';
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename='/'>
     <Layout>
       <Switch>
         <Route exact path='/' component={Register} />
