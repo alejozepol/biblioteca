@@ -52,7 +52,7 @@ module.exports = {
             loader: 'file-loader',
             //Como se va a llamar nuestro archivo después de pasar por webpack
             options: {
-              name: 'assets/[hash].[ext]',
+              name: './assets/[hash].[ext]',
             },
           },
         ],
