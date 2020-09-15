@@ -1,6 +1,7 @@
 # Node template
 
 # Logs
+dist
 logs
 *.log
 npm-debug.log*
