@@ -1,0 +1,40 @@
+.carousel {
+  width: 100%;
+  overflow: scroll;
+  padding: 30px;
+  position: relative;
+}
+.carousel__container {
+  white-space: nowrap;
+  margin: 70px 0;
+  padding-bottom: 10px;
+}
+.carousel__container:hover .carousel-item {
+  opacity: 0.3;
+}
+.carousel__container:hover .carousel-item:hover {
+  transform: scale(1.5);
+  opacity: 1;
+}
+/* Tamaño del scroll */
+.carousel::-webkit-scrollbar /*scroll son las viene siendo todo*/
+{
+  width: 0px;
+  height: 8px;
+}
+
+/* Estilos barra (thumb) de scroll */
+.carousel::-webkit-scrollbar-thumb {/* la rayita del scroll que sube y baja "track es el fondo del scroll"*/ 
+  background: var(--scroll-color);
+  border-radius: 25px;
+
+}
+
+.carousel::-webkit-scrollbar-thumb:active {
+  background-color: var(--white-color);
+}
+
+.carousel::-webkit-scrollbar-thumb:hover {
+  background: var(--white-color);
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}

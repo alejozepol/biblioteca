@@ -1,0 +1,17 @@
+.footer {
+  align-items: center;
+  background-color: var(--main-color);
+  display: flex;
+  height: 100px;
+  width: 100%;
+}
+.footer a {
+  color: var(--white-color);
+  cursor: pointer;
+  font-size: 14px;
+  padding-left: 30px;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: var(--white-color);
+}

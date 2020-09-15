@@ -1,0 +1,7 @@
+// Creamos un JSON, donde va toda la confi
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}

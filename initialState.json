@@ -1,0 +1,51 @@
+{
+  "user": {},
+  "myList": [
+    {
+      "id": 1,
+      "title": "El Karina",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/bb/22/bb2212a043518507e3a769928b820117.jpg",
+      "author": "Germán Castro Caycedo",
+      "year": "2014"
+    },
+    {
+      "id": 2,
+      "title": "Ciendo Años de Soledad",
+      "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/55/21/55213b8fbd5bd46ae5f42410949aee5b.jpg",
+      "author": "Gabriel García Márquez ",
+      "year": "2007"
+    },
+    {
+      "id": 3,
+      "title": "La Melancolia de los Feos",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/71/14/7114797c006059d44c2c10b7917c6b5f.jpg",
+      "author": "Mario Mendoza",
+      "year": "2016"
+
+    },
+    {
+      "id": 4,
+      "title": "Satanás",
+      "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/02/32/0232df26f98f0e4f912cf2685354dc66.jpg",
+      "author": "Mario Mendoza",
+      "year": "2014"
+
+    },
+    {
+      "id": 5,
+      "title": "El Psicoanalista",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/47/64/476474613b40b0eeaefd1b146b186be5.jpg",
+      "author": "John Katzenbach ",
+      "year": "2018"
+
+    },
+    {
+      "id": 6,
+      "title": "Que Viva la Música!",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/5f/ac/5faccc50756e7334b20e61f6a64fc783.jpg",
+      "author": "Andrés Caicedo ",
+      "year": "2013"
+
+    }
+  ]
+}
